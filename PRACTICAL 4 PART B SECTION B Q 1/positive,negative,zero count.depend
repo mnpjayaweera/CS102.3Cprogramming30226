@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686304841 source:c:\users\udara\desktop\camera roll\hello world\positive,negative,zero count\main.c
+	<stdio.h>
+	<stdlib.h>
+
